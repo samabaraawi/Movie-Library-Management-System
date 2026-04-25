@@ -83,7 +83,6 @@ MovieID, Title, Director, Genre, Release Year, Rating
 * Connect to a database instead of text files
 * Add advanced filters and UI enhancements
 * Export statistics as charts
-* Improve user experience and validation
 
 ---
 
